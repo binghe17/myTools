@@ -15,3 +15,14 @@ Serial: mg37cz-5732
 다운로드: https://www.leapic.com/
 
 (무료버전)
+
+----------------------------------------------------------------사용법
+
+1.GIF Movie Gear 사용하여 gif파일의 프레임을 반에 반으로 줄이고 저장한다.(프레임수1/4로 줄이므로 공간도 1/4로 줄어듬)
+     - 메뉴: Animation> Thin (reduce Frame Count) > Delete 1 of every 2 frames > ok (두번 반복하면 프레임이 1/4줄어듬) -> Save as..
+2.GIFOptimizer 사용하여 gif파를 압축 한번 한다.(color:193좌우로 변함)(256색에서 193으로 줄어들어 80%좌우 공간절약)
+     - Open -> Optimize -> Save as..
+
+테스트 예:
+01.gif -> 47,055KB ->12.246KB ->9.868KB
+02.gif -> 74,782KB -> 18,831KB -> 16,131KB
